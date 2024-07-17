@@ -1,0 +1,2 @@
+C:\Users\chenaaa\Desktop\py_test （第一行改成你自己的文件夹绝对路径）
+1
